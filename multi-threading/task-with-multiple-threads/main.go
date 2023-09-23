@@ -14,7 +14,7 @@ func calculateSumParallel(N, numWorkers int) int {
 
     for i := 0; i < numWorkers; i++ {
         wg.Add(1)
-        go func(start, end int) {
+        go func(start int, end int) {
             defer wg.Done()
             localSum := 0
             for j := start; j <= end; j++ {
