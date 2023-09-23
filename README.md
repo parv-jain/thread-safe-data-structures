@@ -5,3 +5,5 @@ Checkout explanations:
 - Custom thread safe map implementation: https://medium.com/@parvjn616/creating-a-custom-thread-safe-map-in-go-a-beginners-guide-c7bdab535553
 
 - Deadlocks: https://medium.com/@parvjn616/understanding-deadlocks-in-concurrent-programming-799d78ebe7a8
+
+- Multithreading - Parallelism vs Sequential Comparsion: https://medium.com/@parvjn616/parallel-vs-sequential-execution-a-dive-into-multithreading-in-go-1a73c91479ac
